@@ -1,6 +1,7 @@
 # Calculadora
 Primer Proyecto de estructura de datos
-Desarrollado por Mauricio Yañez Barrera, Martin, Maria....
+Desarrollado por Mauricio Yañez Barrera, Martin Pozos Arreola, Maria Meraz Inostrosa.
+Instituto Tecnológico Autónomo de México (ITAM).
 
 Java es un lenguaje de programación muy utilizado en la industria debido a su capacidad para desarrollar aplicaciones robustas y escalables. 
 Entre las aplicaciones más comunes, se encuentran las calculadoras, herramientas esenciales para realizar operaciones aritméticas en cualquier 
